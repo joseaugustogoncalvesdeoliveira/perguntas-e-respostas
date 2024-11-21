@@ -1,0 +1,28 @@
+body {background-color:rgb(1, 140, 150);
+}
+
+h1{text-align: center;}
+
+
+main{border-color:orange;
+    border-style: outset;
+    border-width: 20px;
+    background-color:rgb(0, 220, 220);    
+}
+
+    #ima1 {width: 97%;
+        border-color: red;
+        border-style: double;
+        border-width: 20px;
+    }
+
+    #ima2 {width: 30%;
+        border-color: yellow;
+        border-style: double;
+        border-width: 25px;
+
+    }
+
+
+ 
+
